@@ -33,9 +33,13 @@ The primary goal of this Power BI-driven analysis is to empower Adidas decision-
 ## Insight
 
 -Sales hit their absolute highest point in July ($95M) and August ($92M). This suggests high demand for summer athletic gear or back-to-school shopping.
+
 -Performance is at its lowest in the first quarter, specifically March ($57M).
+
 -The West Region is your primary revenue driver, contributing $270M (30% of total sales)
+
 -West Gear ($243M) and Foot Locker ($220M) are your most critical partners, together accounting for over half of your retailer-based revenue
+
 -Shape Map indicates that New York, California, Texas, and Florida (darker blue areas) are the core hubs for your sales volume
 
 ## Dashboard
